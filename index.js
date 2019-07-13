@@ -1,1 +1,8 @@
-console.log("I caused a merge conflict")
+
+console.log("Hello World")
+
+function addTwoNums(a, b){
+    console.log(a + b)
+}
+addTwoNums(5, 10)
+
